@@ -1,0 +1,46 @@
+header {
+    background-color: red;
+    height: 150px;
+    margin: 0px;
+}
+
+header p {
+    margin: 0px;
+}
+body {
+    font-family: Arial, sans-serif; 
+    margin: 0; 
+    padding: 0; 
+    background-color: #e0f7fa; 
+}
+
+.navi {
+    margin-top: 20px;
+}
+nav a {
+    color:white;
+    margin-right: 20px;
+    text-decoration: none;
+    
+}
+nav {
+    padding: 10px; /* Adiciona 10px de espaçamento interno em volta do conteúdo de navegação */
+    text-align: center; /* Centraliza o conteúdo do menu de navegação */
+}
+li {
+    margin: 0; 
+    padding: 0; 
+
+}
+.navi a{
+    background-color: black;
+    padding: 20px;
+    border-radius: 10px;
+    color: aliceblue;
+    text-decoration: none;
+    
+ 
+}
+footer {
+    margin-top: auto;
+}
